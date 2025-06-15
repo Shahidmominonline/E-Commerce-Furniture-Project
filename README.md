@@ -1,7 +1,9 @@
 # E-Commerce Furniture Sales Analysis & Predictive Modeling
 
 🔍 **Project Overview**
-This project analyzes an e-commerce furniture sales dataset to identify key factors influencing sales volume. Using Python, Pandas, and Scikit-learn, we explore pricing trends, shipping preferences, and build predictive models to forecast sales performance.
+
+This project analyzes an e-commerce furniture sales dataset to identify key factors influencing sales volume. Using Python, Pandas, and Scikit-learn, 
+we explore pricing trends, shipping preferences, and build predictive models to forecast sales performance.
 
 🛠️ **Technologies Used**
 
