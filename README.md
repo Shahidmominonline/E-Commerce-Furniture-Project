@@ -5,6 +5,8 @@
 This project analyzes an e-commerce furniture sales dataset to identify key factors influencing sales volume. Using Python, Pandas, and Scikit-learn, 
 we explore pricing trends, shipping preferences, and build predictive models to forecast sales performance.
 
+---
+
 🛠️ **Technologies Used**
 
 🔨 Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -12,6 +14,8 @@ we explore pricing trends, shipping preferences, and build predictive models to 
 🔨 Scikit-learn (Linear Regression, Random Forest, Model Evaluation)
 
 🔨 Jupyter Notebook (Interactive Analysis)
+
+---
 
 📂 **Key Features**
 
@@ -22,6 +26,8 @@ we explore pricing trends, shipping preferences, and build predictive models to 
 🚩 Predictive Modeling – Tested Linear Regression and Random Forest to predict sales (with performance insights).
 
 🚩 Actionable Insights – Recommendations for pricing optimization and shipping strategies.
+
+---
 
 📈 **Key Findings**
 
